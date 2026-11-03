@@ -1,3 +1,3 @@
-##
-Currently working on ...
-Currently learning C#, NextJS
+## Hello
+- Currently working on ...
+- Currently learning C#, NextJS
