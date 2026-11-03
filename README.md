@@ -1,4 +1,4 @@
-## Hello, I am
-- Currently working on ...
-- Currently learning C#, NextJS
-- Currently reading The Road to React
+## Hello, I am currently
+- Working on campus-bookings
+- Learning C#, NextJS
+- Reading The Road to React
